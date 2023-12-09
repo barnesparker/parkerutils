@@ -4,6 +4,9 @@
 # parkerutils
 
 <!-- badges: start -->
+
+[![Codecov test
+coverage](https://codecov.io/gh/barnesparker/parkerutils/branch/main/graph/badge.svg)](https://app.codecov.io/gh/barnesparker/parkerutils?branch=main)
 <!-- badges: end -->
 
 The goal of parkerutils is to provide a central place to put common
