@@ -1,0 +1,40 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# parkerutils
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of parkerutils is to provide a central place to put common utility functions
+I use in my day to day
+
+## Installation
+
+You can install the development version of parkerutils like so:
+
+```{r eval=FALSE}
+remotes::install_github("barnesparker/parkerutils")
+```
+
+
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+```{r example, eval=FALSE}
+library(parkerutils)
+## basic example code
+```
