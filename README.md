@@ -7,6 +7,8 @@
 
 [![Codecov test
 coverage](https://codecov.io/gh/barnesparker/parkerutils/branch/main/graph/badge.svg)](https://app.codecov.io/gh/barnesparker/parkerutils?branch=main)
+[![Lifecycle:
+experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 <!-- badges: end -->
 
 The goal of parkerutils is to provide a central place to put common
